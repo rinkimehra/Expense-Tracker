@@ -1,2 +1,16 @@
-# Expense-Tracker
-A simple command-line expense tracker built with Java that lets you manage  your daily expenses — add, view, delete, and analyze them by category or month.
+# Expense Tracker Java
+
+Console-based Expense Tracker built using Java and File Handling.
+
+## Features
+- Add Expense
+- View Expense
+- Delete Expense
+- Monthly Expense
+- Category-wise Analysis
+
+## Technologies Used
+- Java
+- File Handling
+- HashMap
+- CSV Storage
